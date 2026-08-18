@@ -151,6 +151,26 @@ cd Java-</code></pre>
 
 <hr>
 
+<h2>💡 P.S. Architectural Evolution & Design Decisions</h2>
+
+<p>
+  <i>During the development lifecycle of this project, we evolved our architecture to optimize performance, cloud efficiency, and developer experience:</i>
+</p>
+
+<ul>
+  <li>
+    <b>🗄️ Database Evolution (MySQL → Embedded H2 Database):</b><br>
+    We initially built the platform using an external <b>MySQL Server</b>. To make the project <b>zero-setup and portable out of the box</b> for evaluators and teammates, we migrated to an embedded file-based <b>H2 Database</b> (<code>jdbc:h2:file:./data/tailorshopdb</code>). This eliminates the need for anyone cloning the repository to install, configure, or run a local MySQL service, while maintaining 100% full SQL, Hibernate, and JPA entity capabilities.
+  </li>
+  <br>
+  <li>
+    <b>☁️ Cloud Media Evolution (AWS S3 → Cloudinary CDN):</b><br>
+    We originally integrated <b>AWS S3</b> for remote asset storage. However, we transitioned to <b>Cloudinary CDN</b> to leverage its automatic real-time image compression, dynamic format optimization (WebP/AVIF), and ultra-fast global CDN delivery. Furthermore, we engineered an automatic <b>local storage fallback mechanism</b> so product image uploads continue to work seamlessly even if cloud APIs are offline.
+  </li>
+</ul>
+
+<hr>
+
 <p align="center">
   <i>Developed as part of 2nd Year 1st Semester Object-Oriented Programming (OOP) with Java coursework.</i><br>
   © 2026 Tailor Platform. All Rights Reserved.
