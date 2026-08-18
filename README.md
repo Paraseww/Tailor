@@ -113,6 +113,7 @@
 <hr>
 
 <h2>🚀 Getting Started</h2>
+<pre><code>git clone https://github.com/https://github.com/Paraseww/Tailor.git
 
 <h3>1. Clone the Repository</h3>
 
