@@ -107,17 +107,16 @@
 <h2>🎨 UI/UX Design Case Study</h2>
 <p>
   Check out the complete visual UI design showcase and case study on <b>Behance</b>:<br>
-  👉 <a href="https://www.behance.net/gallery/242378331/Tailor-Website-UIUX-Design"><b>View Behance UI/UX Showcase</b></a>
+  👉 <a href="https://www.behance.net/gallery/242378331/Tailor-Website-UIUX-Design" target="_blank"><b>View Behance UI/UX Showcase</b></a>
 </p>
 
 <hr>
 
 <h2>🚀 Getting Started</h2>
-<pre><code>git clone https://github.com/https://github.com/Paraseww/Tailor.git
 
 <h3>1. Clone the Repository</h3>
-
-cd Tailor-ECommerce-Platform</code></pre>
+<pre><code>git clone https://github.com/Paraseww/Tailor.git
+cd Tailor</code></pre>
 
 <h3>2. Configure Properties</h3>
 <pre><code>cp backend/src/main/resources/application.properties.example backend/src/main/resources/application.properties</code></pre>
