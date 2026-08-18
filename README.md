@@ -33,8 +33,7 @@
   <tr>
     <td width="50%" align="center" valign="top">
       <div style="border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background: #ffffff;">
-        <!-- First collage image file path -->
-        <img src="frontend/images/first4.png" alt="Digital Storefront Showcase" width="100%" style="border-radius: 8px;">
+        <img src="https://raw.githubusercontent.com/Paraseww/Tailor/main/frontend/images/first4.png" alt="Digital Storefront Showcase" width="100%" style="border-radius: 8px;">
         <br><br>
         <h3>🌐 Digital Storefront & Service Portal</h3>
         <p><b>Brand Experience:</b> <i>Home Landing Page, About Us Story, Custom Tailoring Services, and Contact Us</i></p>
@@ -42,8 +41,7 @@
     </td>
     <td width="50%" align="center" valign="top">
       <div style="border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background: #ffffff;">
-        <!-- Replace 'YOUR_ADMIN_COLLAGE_PATH.png' with your second collage image link or file path -->
-        <img src="frontend/images/last4.png" alt="Retail & Order Tracking Showcase" width="100%" style="border-radius: 8px;">
+        <img src="https://raw.githubusercontent.com/Paraseww/Tailor/main/frontend/images/last4.png" alt="Retail & Order Tracking Showcase" width="100%" style="border-radius: 8px;">
         <br><br>
         <h3>🛒 Retail Shopping, Checkout & Tracking</h3>
         <p><b>E-Commerce Workflow:</b> <i>Interactive Shop Catalog, Shopping Cart, Real-Time Order Tracking, and User Authentication</i></p>
