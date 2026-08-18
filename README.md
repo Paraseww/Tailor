@@ -169,9 +169,4 @@ cd Java-</code></pre>
   </li>
 </ul>
 
-<hr>
 
-<p align="center">
-  <i>Developed as part of 2nd Year 1st Semester Object-Oriented Programming (OOP) with Java coursework.</i><br>
-  © 2026 Tailor Platform. All Rights Reserved.
-</p>
