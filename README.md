@@ -1,4 +1,4 @@
-<h1 align="center">🧵 Tailor — Full-Stack Bespoke E-Commerce & Custom Tailoring Platform</h1>
+<h1 align="center">🧵 Tailor - Full-Stack Bespoke E-Commerce & Custom Tailoring Platform</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-21-orange.svg?style=for-the-badge&logo=openjdk" alt="Java">
@@ -24,6 +24,33 @@
   <li><b>Readymade Retail & Raw Materials Store:</b> Customers can browse off-the-rack fashion collections, purchase raw fabrics per meter, select garment sizes, and manage persistent shopping carts.</li>
   <li><b>Bespoke Custom Tailoring Engine:</b> Customers can order custom-made suits, blazers, shirts, and trousers by inputting precise measurements (chest, waist, inseam, sleeve, and length).</li>
 </ul>
+
+<hr>
+
+<h2>📸 Platform Visual Showcase</h2>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="10">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <div style="border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background: #ffffff;">
+        <!-- First collage image file path -->
+        <img src="frontend/images/first4.png" alt="Digital Storefront Showcase" width="100%" style="border-radius: 8px;">
+        <br><br>
+        <h3>🌐 Digital Storefront & Service Portal</h3>
+        <p><b>Brand Experience:</b> <i>Home Landing Page, About Us Story, Custom Tailoring Services, and Contact Us</i></p>
+      </div>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <div style="border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px; background: #ffffff;">
+        <!-- Replace 'YOUR_ADMIN_COLLAGE_PATH.png' with your second collage image link or file path -->
+        <img src="frontend/images/last4.png" alt="Retail & Order Tracking Showcase" width="100%" style="border-radius: 8px;">
+        <br><br>
+        <h3>🛒 Retail Shopping, Checkout & Tracking</h3>
+        <p><b>E-Commerce Workflow:</b> <i>Interactive Shop Catalog, Shopping Cart, Real-Time Order Tracking, and User Authentication</i></p>
+      </div>
+    </td>
+  </tr>
+</table>
 
 <hr>
 
